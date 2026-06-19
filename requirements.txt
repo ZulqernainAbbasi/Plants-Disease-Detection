@@ -1,8 +1,8 @@
-flask
-streamlit
+Flask
+gunicorn
 numpy
 pandas
 scikit-learn
 opencv-python-headless
-pillow
+Pillow
 joblib
